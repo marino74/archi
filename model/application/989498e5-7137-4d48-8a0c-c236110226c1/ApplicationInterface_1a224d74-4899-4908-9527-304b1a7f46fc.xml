@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/CustomerProductRequest/Baskets"
+    id="1a224d74-4899-4908-9527-304b1a7f46fc"
+    documentation="Agregate API provide Access to Agregates. For example GET Customer"/>

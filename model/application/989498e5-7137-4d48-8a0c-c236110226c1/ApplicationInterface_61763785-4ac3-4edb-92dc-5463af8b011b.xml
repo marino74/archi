@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/Party"
+    id="61763785-4ac3-4edb-92dc-5463af8b011b"
+    documentation="This API provides access to the Party Aggregate."/>

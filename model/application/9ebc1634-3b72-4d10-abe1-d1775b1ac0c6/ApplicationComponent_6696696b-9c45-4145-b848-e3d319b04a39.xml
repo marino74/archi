@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collateral Allocation Management"
+    id="6696696b-9c45-4145-b848-e3d319b04a39"
+    documentation="Description:&#xD;&#xA;Administer the holding and allocation of collateral on behalf of a customer&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Collateral asset record (asset reference, asset type, asset properties/description, title, location, jurisdiction, associated document references, contacts/interested parties, current valuation and valuation history), Collateral allocation details (party, product/facility reference, committed amount, committed duration, title hierarchy), Collateral allocation schedule (asset reference, amount, product/facility reference, date/time)&#xD;&#xA;">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+  <properties
+      key="Status"
+      value="Identified"/>
+</archimate:ApplicationComponent>

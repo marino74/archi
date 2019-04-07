@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit Risk Model"
+    id="475eedca-c2e3-4bd7-9cf2-c9094fb7fbae"
+    documentation="Description:&#xD;&#xA;Develop and maintain models for counterparty, issuer, and portfolio risk for all contracts, instruments and (sub-)portfolios respectively.&#xD;&#xA;&#xD;&#xA;Customer record:&#xD;&#xA;Specification subject properties and associated values, Specification subject behaviors/options descriptions and measurements,  Subject production usage/activity/performance related details/statistics, Subject operational, technical and resourcing requirements, Specification usage limitations and guidelines, Related market/competitor analysis&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+  <properties
+      key="Status"
+      value="Confirmed"/>
+</archimate:ApplicationComponent>

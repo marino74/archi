@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/Customer/Alert"
+    id="389a995a-7db2-4cf4-8cb2-9f21f6a2238d"
+    documentation="This API provides access to the Alert Information (provided by the Alert Entities) in the &quot;Customer&quot; Aggregate"/>

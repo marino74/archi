@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel"
+    id="f8af8aff-5512-4cc8-a1c3-ceb0d39635af">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

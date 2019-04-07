@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/Customer/Financial Information"
+    id="c9da7989-4b2e-486d-8882-45964439876d"
+    documentation="This API provides access to the Financial Information Information (provided by the Financial Information Entities) in the &quot;Customer&quot; Aggregate"/>

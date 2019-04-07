@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Disbursement Order"
+    id="e8ad8368-a35c-4bc4-9aac-d9bc8a99dcda">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

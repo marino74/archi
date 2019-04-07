@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Billing"
+    id="9b4da6dd-e310-43c1-b4f1-eff9031fb9e4"
+    documentation="Description:&#xD;&#xA;Provide (central) services to compose, issue and track customer billing and invoices (see also accounts receivable)&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Customer invoice details (product/service reference, customer/party reference, invoice type/description, amount, payment handling details/instructions), Invoice payment transaction (invoice reference, customer/party/account reference, date, amount)&#xD;&#xA;">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+  <properties
+      key="Status"
+      value="Identificado"/>
+</archimate:ApplicationComponent>

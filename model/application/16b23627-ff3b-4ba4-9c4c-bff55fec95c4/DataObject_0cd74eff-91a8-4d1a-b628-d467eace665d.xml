@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Offer"
+    id="0cd74eff-91a8-4d1a-b628-d467eace665d">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

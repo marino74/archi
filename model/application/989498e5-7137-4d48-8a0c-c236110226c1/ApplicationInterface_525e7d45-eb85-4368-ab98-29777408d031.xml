@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/CommercialProduct"
+    id="525e7d45-eb85-4368-ab98-29777408d031"
+    documentation="This API provides access to the Aggregate."/>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entity"
+    id="a6f4cfcf-c884-47da-a136-a087def232b6"
+    documentation="An Entity models an individual thing. Each Entity has a unique identity in that you can distinguish its individuality from among all other Entities of the same or a different type.&#xA;&#xA;The Information provided by the Aggregates is structured in Entities. For example, the &quot;Customer&quot; aggregate can provide Customer Credit Rating information of the customer, or the customer positions. &quot;Customer Credit Rating&quot; or &quot;Customer contact Points&quot; are examples of entities belonging to the &quot;Customer&quot; Aggregate">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

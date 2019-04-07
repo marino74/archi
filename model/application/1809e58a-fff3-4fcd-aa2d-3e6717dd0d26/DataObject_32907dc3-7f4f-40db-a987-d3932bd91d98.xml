@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Template"
+    id="32907dc3-7f4f-40db-a987-d3932bd91d98">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/DepositProductOffer/Roles"
+    id="896cf144-b6b5-4e5b-9961-fb01361cf047"
+    documentation="This API provides access to the Information about roles (provided by the Roles Entities) in the &quot;Deposit Product Offer &quot; Aggregate"/>

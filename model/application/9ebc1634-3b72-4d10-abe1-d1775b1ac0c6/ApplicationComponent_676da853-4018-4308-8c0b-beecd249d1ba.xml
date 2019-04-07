@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employee Access"
+    id="676da853-4018-4308-8c0b-beecd249d1ba"
+    documentation="Review, diagnose and respond to detected production activity that has been identified as potential fraud/AML behavior&#xA;&#xA;&#xA;Control Record:&#xA;&#xA;Fraud/AML case record (party reference, customer reference, employee reference, product/service reference, transaction reference, activity/transaction details), Fraud/AML case reference data (customer/transaction/servicing/operations records), Fraud/AML resolution (resolution action details, procedural recommendations)">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

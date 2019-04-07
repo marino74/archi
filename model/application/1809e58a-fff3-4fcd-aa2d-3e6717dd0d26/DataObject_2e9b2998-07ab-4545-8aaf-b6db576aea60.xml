@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Events"
+    id="2e9b2998-07ab-4545-8aaf-b6db576aea60">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Positions"
+    id="6cceaf08-e748-4f3f-bfa0-2ca76c10a18d"
+    documentation="Maintain a consolidated financial position of a customer&#xA;&#xA;Control Record: &#xA;Product transaction and position details, Consolidated customer analysis rules/algorithms, Consolidated customer analysis applied rates (date/time specific), Consolidated customer position record/details, Consolidated customer position alert/limit thresholds, Consolidated customer analysis and report record">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

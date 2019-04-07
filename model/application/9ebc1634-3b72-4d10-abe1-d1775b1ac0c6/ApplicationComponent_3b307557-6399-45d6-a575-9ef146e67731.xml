@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deposits"
+    id="3b307557-6399-45d6-a575-9ef146e67731">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

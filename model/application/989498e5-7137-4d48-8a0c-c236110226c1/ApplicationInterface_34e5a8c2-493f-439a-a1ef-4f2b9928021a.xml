@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/CreditProductOffer/PaymentSchedule"
+    id="34e5a8c2-493f-439a-a1ef-4f2b9928021a"
+    documentation="This API provides access to the PaymentSchedule Entity in the CreditProductOffer Aggregate."/>

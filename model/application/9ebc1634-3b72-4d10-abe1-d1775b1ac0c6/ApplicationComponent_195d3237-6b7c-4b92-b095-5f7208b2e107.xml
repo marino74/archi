@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Event History"
+    id="195d3237-6b7c-4b92-b095-5f7208b2e107">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prospect"
+    id="e0bf1623-c9f0-439e-b2e3-16820af363f7">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

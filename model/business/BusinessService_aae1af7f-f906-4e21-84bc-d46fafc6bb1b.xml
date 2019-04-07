@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Command"
+    id="aae1af7f-f906-4e21-84bc-d46fafc6bb1b"
+    documentation="A &quot;Domain Command&quot; is a business modeling object that represents actions done by a actor that triggers an Event"/>

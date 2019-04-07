@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Agreements"
+    id="cc89b10a-ee64-4ae7-b695-2f15f2075a10">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

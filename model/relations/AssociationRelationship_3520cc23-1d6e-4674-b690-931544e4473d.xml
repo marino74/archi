@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="implement the business logic"
+    id="3520cc23-1d6e-4674-b690-931544e4473d">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_58a40ad8-a569-4f89-9cf0-20a00f6a1166.xml#58a40ad8-a569-4f89-9cf0-20a00f6a1166"/>
+  <target
+      xsi:type="archimate:TriggeringRelationship"
+      href="TriggeringRelationship_8ce6b40e-d369-4bd5-b3da-255ad21187bf.xml#8ce6b40e-d369-4bd5-b3da-255ad21187bf"/>
+</archimate:AssociationRelationship>

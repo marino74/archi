@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product agreements"
+    id="348c1ab7-b13a-4b5d-b50c-4a3bdd2aa2a8">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

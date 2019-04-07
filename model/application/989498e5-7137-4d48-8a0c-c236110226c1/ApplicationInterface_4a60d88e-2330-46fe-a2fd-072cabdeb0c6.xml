@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/DepositProductOffer/PaymentPlan"
+    id="4a60d88e-2330-46fe-a2fd-072cabdeb0c6"
+    documentation="This API provides access to the Payment Plan Information (provided by the Payment Plan Entities) in the &quot;Deposit Product Offer &quot; Aggregate"/>

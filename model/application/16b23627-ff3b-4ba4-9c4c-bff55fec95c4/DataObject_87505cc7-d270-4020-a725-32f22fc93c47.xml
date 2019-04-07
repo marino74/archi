@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fraud Relevant Events"
+    id="87505cc7-d270-4020-a725-32f22fc93c47">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generic Product/Service Price"
+    id="33c22cd0-57d8-45d3-b13a-9f31395cac27"
+    documentation="Rules applied to calculate and execute the tax obligations of a customer">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit Agreement"
+    id="b75e985d-06fb-42e0-af77-be14dd5a2b5c">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

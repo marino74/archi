@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/DepositProductOffer/TermsandConditions"
+    id="29f3b656-a5e0-4d9a-8e47-a249796edfbc"
+    documentation="This API provides access to the Information about T&amp;C (provided by the T&amp;C Entities) in the &quot;Deposit Product Offer &quot; Aggregate"/>

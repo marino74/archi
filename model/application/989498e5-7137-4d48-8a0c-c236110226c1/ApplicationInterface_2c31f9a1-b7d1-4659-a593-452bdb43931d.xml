@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/CreditRequestCreditRiskEvaluation/RiskFactors"
+    id="2c31f9a1-b7d1-4659-a593-452bdb43931d"
+    documentation="This API provides access to the RiskFactors Information (provided by the Risk Factor Entities) in the &quot;Credit Request Credit Risk Evaluation&quot; Aggregate"/>

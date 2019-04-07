@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/Experience API"
+    id="addd9669-5f96-46f5-b9e3-ccd1c0f78b04"
+    documentation="Experience APIs implementes specific agregration logic for a channel and can combine information from several domains. For example, a customer match for the web must also return simulation values for every product suggested. This merge of matching result with product simulation are implemented in the Experience APIs"/>

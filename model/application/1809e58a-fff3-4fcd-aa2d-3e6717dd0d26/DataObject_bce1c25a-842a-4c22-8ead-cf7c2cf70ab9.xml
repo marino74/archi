@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Alerts"
+    id="bce1c25a-842a-4c22-8ead-cf7c2cf70ab9">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

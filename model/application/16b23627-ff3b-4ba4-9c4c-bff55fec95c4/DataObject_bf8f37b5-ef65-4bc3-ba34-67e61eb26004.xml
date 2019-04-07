@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KYC"
+    id="bf8f37b5-ef65-4bc3-ba34-67e61eb26004"
+    documentation="Customer Positions include the customer assets (including credits), liabilities and collaterals&#xA;">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

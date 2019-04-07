@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/DepositProductOffer/Price"
+    id="76647480-ffc4-4289-83ac-53545e975aa2"
+    documentation="This API provides access to the Price Information (provided by the Price Entities) in the &quot;Deposit Product Offer &quot; Aggregate"/>

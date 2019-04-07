@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Charge Item"
+    id="12b0ba4a-2ca2-430f-928c-bb34f05fc90f">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

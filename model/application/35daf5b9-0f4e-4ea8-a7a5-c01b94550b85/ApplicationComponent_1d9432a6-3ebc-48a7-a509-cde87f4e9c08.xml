@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BIAN Service Domain"
+    id="1d9432a6-3ebc-48a7-a509-cde87f4e9c08"
+    documentation="A BIAN Service Domain is an element in BIAN standard to provide a grouping of business capabilities of a bank. BIAN provide what are the responsibilities of each domain (what services provides to the bank). The responsabilities are described through a &quot;Control Record&quot;. Control Records are a good source to identify the Aggregates needed to describe the information managed by the Service Domain&#xA;&#xA;A BIAN Service Domain will contain several Subdomains, each of them describe by one or several of the Aggregates&#xA;&#xA;A Subdomain will be implemented, in general, as a microservice and, in consequence, the BIAN Service Domain will be implemented via several microservices&#xA;&#xA;BIAN Service Domain is used as a governance mecanishm. For example to assign teams responsible to the BIAN Service Domain. Also a BIAN Service Domain decides which of the API exposes by the Subdomains are visible to other Service Domains (public) and which one are hidden to other Service Domains (private)&#xA;&#xA;BIAN Service Domains are also used for communication within the Bank, to describe in big blocks how the application archietcture is structured&#xA;">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

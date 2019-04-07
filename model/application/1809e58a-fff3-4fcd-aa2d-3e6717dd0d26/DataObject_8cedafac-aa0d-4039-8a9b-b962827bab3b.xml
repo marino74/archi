@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VAT Obligation Rules "
+    id="8cedafac-aa0d-4039-8a9b-b962827bab3b"
+    documentation="Rules applied to calculate and execute the VAT obligations of a customer">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

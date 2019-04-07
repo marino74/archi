@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Contact Points"
+    id="55cd54ea-ec09-4597-b1c6-452e92857537">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

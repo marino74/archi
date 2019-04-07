@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External Credit Rating"
+    id="fb439c4c-2570-475e-918d-f46353ff354e">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

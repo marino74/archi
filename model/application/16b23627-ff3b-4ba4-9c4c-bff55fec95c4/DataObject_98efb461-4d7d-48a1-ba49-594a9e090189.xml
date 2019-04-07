@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product/Service"
+    id="98efb461-4d7d-48a1-ba49-594a9e090189">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

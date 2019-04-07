@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VAT relevant transactions"
+    id="c35456ff-a067-4cd2-be28-2a6a653f2fab">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

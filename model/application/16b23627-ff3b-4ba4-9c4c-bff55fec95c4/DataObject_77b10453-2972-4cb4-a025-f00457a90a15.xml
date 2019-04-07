@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accessed Resource (Agreement / Service / Device)"
+    id="77b10453-2972-4cb4-a025-f00457a90a15">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

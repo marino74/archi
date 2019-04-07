@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/CreditProductOffer/T&amp;C"
+    id="c7f6baac-214d-4d1a-a0f8-21e92623f3cd"
+    documentation="This API provides access to the Terms &amp; Conditions Information (provided by the T&amp;C Entity) in the CreditProductOffer Aggregate."/>

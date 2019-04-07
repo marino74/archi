@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/CreditProductOffer/Documents"
+    id="87f6f417-88df-41d4-80d3-8a9e78d16d5a"
+    documentation="This API provides access to the Documents Entity in the CreditProductOffer Aggregate."/>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Value Object"
+    id="fcc604ef-7c1a-4004-a0c1-9c4bdcca5efc"
+    documentation="A Value Object models an immutable conceptual whole. Within the model the Value is just that, a value. Unlike an Entity , it does not have a unique identity, and equivalence is determined by comparing the attributes encapsulated by the Valuetype. Furthermore, a Value Object is not a thing but is often used to describe, quantify, or measure an Entity&#xA;&#xA;For example, the Customer Position is a value object in the &quot;Customer&quot; Aggregate. A customer positions does not make sense it they are not in the context of a Customer and do not have a proper &quot;identity&quot; or lifecycle. This is the reason why it´s considered a value object and not an Entity. &#xA;&#xA;the difference of value objects and entities do not have any special impact in the actual implementation of the software managing such components">
+  <properties
+      key="Type"
+      value="Value Object"/>
+</archimate:DataObject>

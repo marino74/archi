@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Classifications"
+    id="37da0796-e782-4d2d-bc76-0b698fdc5c71">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tax relevant transactions"
+    id="cc501595-cc7c-495a-9491-a264ecc2c59f">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk Relevant Events"
+    id="b3b82fb9-115b-49b4-8149-05abfc28268d">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

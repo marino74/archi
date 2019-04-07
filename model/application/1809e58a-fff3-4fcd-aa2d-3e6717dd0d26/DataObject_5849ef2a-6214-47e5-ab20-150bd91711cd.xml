@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deposit Price"
+    id="5849ef2a-6214-47e5-ab20-150bd91711cd"
+    documentation="Rules applied to calculate and execute the tax obligations of a customer">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collateral Allocation"
+    id="c9d8e676-d1f1-46dc-8b26-0ea02a3b21a7"
+    documentation="Collateral Allocation aggregate manage the information related to use of assets as collateral of products or operations (collaterals assets lifecycle is managed in a different aggregate)">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

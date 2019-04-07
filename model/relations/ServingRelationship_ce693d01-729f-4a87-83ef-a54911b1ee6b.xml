@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="get repayment method for this product"
+    id="ce693d01-729f-4a87-83ef-a54911b1ee6b">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_525e7d45-eb85-4368-ab98-29777408d031.xml#525e7d45-eb85-4368-ab98-29777408d031"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_a1c5f8c4-0bac-48fd-9fde-83d30098b767.xml#a1c5f8c4-0bac-48fd-9fde-83d30098b767"/>
+</archimate:ServingRelationship>

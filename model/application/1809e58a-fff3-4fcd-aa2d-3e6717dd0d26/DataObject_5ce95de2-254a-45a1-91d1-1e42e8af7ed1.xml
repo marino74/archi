@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Simple Commercial Product"
+    id="5ce95de2-254a-45a1-91d1-1e42e8af7ed1">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

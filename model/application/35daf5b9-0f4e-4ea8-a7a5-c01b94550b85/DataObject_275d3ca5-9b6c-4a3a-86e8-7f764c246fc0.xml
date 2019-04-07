@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregate of Value Object"
+    id="275d3ca5-9b6c-4a3a-86e8-7f764c246fc0"
+    documentation="This &quot;Aggregates&quot; is used that the information described by an Value Object in a Aggregate is actually managed in a different aggregate. For example, the Aggregate Customer constains the Value Object Customer Position, this means that the positions are relevant in the context of the customer and makes sense to ask to the &quot;customer&quot; aggregate (for example, though the APIs taht exposes the customer aggregate, to retrieve the positions. However the positions are calculated and managed in a separate Aggregate because it is information also relevant for other aggregates, such as the &quot;customer risk rating&quot;">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

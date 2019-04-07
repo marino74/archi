@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/Customer/Customers/ID/Party"
+    id="9ed989ef-fbce-43a6-99dc-e4a2e544ed73"
+    documentation="This API provides access to the Party Information (provided by the Party Entities) in the &quot;Customer&quot; Aggregate"/>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deposit Account"
+    id="ba30fe1f-5862-4fb8-8556-54ed6cac04b8">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

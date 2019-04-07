@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microservice"
+    id="6c5ab692-2233-461b-9920-24eea4cf31e9"
+    documentation="A microservice is one of the potential technical implementation of Domain. For example the &quot;Customer&quot; microservices is the SW component that manages the customer information described by the customer aggregate. It also provide the APIs and Events to interact with the aggregates and contains the implementation of the business logic required to retrieve or manipulate such information"/>

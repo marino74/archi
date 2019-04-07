@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/Customer/CreditRating"
+    id="90560488-8023-418b-80fb-ad1777048944"
+    documentation="This API provides access to the Credit Rating Information (provided by the Credit Rating Entities) in the &quot;Customer&quot; Aggregate"/>

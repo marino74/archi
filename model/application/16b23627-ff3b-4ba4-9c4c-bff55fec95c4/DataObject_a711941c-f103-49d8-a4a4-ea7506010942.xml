@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loans"
+    id="a711941c-f103-49d8-a4a4-ea7506010942">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

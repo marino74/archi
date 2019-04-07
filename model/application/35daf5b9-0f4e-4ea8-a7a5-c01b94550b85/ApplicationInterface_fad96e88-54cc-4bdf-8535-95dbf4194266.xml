@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/Domain/Aggregate/ID/ValueObject"
+    id="fad96e88-54cc-4bdf-8535-95dbf4194266"
+    documentation="These APIs provides access to Value Objects within a Agregate, for example GET Customer/Customers/ID/CustomerPosition"/>

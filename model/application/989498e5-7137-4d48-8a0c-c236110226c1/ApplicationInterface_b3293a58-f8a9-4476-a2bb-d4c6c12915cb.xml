@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/CreditAgreement"
+    id="b3293a58-f8a9-4476-a2bb-d4c6c12915cb"
+    documentation="This API provides access to the Aggregate."/>

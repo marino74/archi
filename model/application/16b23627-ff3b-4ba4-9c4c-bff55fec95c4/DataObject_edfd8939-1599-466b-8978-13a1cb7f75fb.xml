@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Repayment Method"
+    id="edfd8939-1599-466b-8978-13a1cb7f75fb">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

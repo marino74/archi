@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="access / changes the aggregate"
+    id="02fb4426-e9d5-477e-82f9-d04c38bdb1d7"
+    accessType="3">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_58a40ad8-a569-4f89-9cf0-20a00f6a1166.xml#58a40ad8-a569-4f89-9cf0-20a00f6a1166"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_65baed34-5a3c-43ff-97fe-d8afe2b9ea05.xml#65baed34-5a3c-43ff-97fe-d8afe2b9ea05"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Product Request"
+    id="d126cdea-dee9-4681-bf6a-d277c3915bd3"
+    documentation="Customer request represents an application received by the bank from a customer who wants to purchase a product ">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

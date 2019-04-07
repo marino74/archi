@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Design"
+    id="4a0733af-3500-4fff-b432-8abd9713b470"
+    documentation="Develop/refine product designs and supporting specification details&#xD;&#xA;&#xA;Control record:&#xD;&#xA;Specification subject properties and associated values, Specification subject behaviors/options descriptions and measurements,  Subject production usage/activity/performance related details/statistics, Subject operational, technical and resourcing requirements, Specification usage limitations and guidelines, Related market/competitor analysis">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

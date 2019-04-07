@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/CreditAgreement/Document"
+    id="60e84872-c44a-44da-b9e3-9b7bd31b60c0"
+    documentation="This API provides access to the Document Entities in the CreditAgreement Aggregate."/>

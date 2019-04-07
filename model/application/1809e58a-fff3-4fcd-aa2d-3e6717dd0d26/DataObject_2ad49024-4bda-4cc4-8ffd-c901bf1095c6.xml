@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fee"
+    id="2ad49024-4bda-4cc4-8ffd-c901bf1095c6">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

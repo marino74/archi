@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open Item Management"
+    id="e46a8d99-39b5-4d04-949a-74dc6f3b05d6"
+    documentation="Description:&#xD;&#xA;Handle the resolution of open items against a product or facility (such as overdue payments)&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Open item  details (product/service reference, customer/party reference, open item type/description, amount, open item  handling details/instructions),&#xD;&#xA;">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

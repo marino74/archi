@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AML Rules"
+    id="a2f31626-274e-4778-9ed6-fc1391a1498d"
+    documentation="AML Rules are used to establish the crteria to identify suspicious AML activity">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

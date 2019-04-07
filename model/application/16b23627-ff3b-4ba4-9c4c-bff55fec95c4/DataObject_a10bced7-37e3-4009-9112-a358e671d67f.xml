@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party: Customer"
+    id="a10bced7-37e3-4009-9112-a358e671d67f">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

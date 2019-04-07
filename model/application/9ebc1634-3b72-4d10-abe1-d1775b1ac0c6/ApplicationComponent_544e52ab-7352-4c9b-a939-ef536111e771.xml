@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Discount Pricing"
+    id="544e52ab-7352-4c9b-a939-ef536111e771"
+    documentation="Discount Pricing&#xD;&#xA;Description:&#xD;&#xA;Maintain a current price list (with ranges and optional terms) by product/customer type for exceptional pricing conditions that override standard pricing as would be derived from the standard product specification&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Assessment test categories and associated descriptions, Assessment test definitions, Test assessment guidelines and requirements, Assessment test results, Assessment test evaluation requirements/obligations and implications&#xD;&#xA;&#xD;&#xA;---&#xD;&#xA;&#xD;&#xA;Special Pricing Conditions&#xD;&#xA;Description:&#xD;&#xA;Maintain a price list or single conditions (with ranges and optional terms) by various dimensions, e.g. customer segment (e.g. employee conditions), for exceptional product independent pricing conditions that override standard pricing derived from the pricing product.&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Directory entry reference details, Entry properties/values, Entry status, Directory record access activity/feedback details">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

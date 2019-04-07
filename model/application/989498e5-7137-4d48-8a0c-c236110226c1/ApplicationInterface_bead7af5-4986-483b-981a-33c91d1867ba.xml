@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/Customer/Customers/ID/Position"
+    id="bead7af5-4986-483b-981a-33c91d1867ba"
+    documentation="This API provides access to the Position Information (provided by the positions value object) in the &quot;Customer&quot; Aggregate"/>

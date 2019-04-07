@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Position"
+    id="fff446d2-ece9-4e08-94bb-cb6d9e4f2870">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

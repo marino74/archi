@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/ApprovalRequests/Approver"
+    id="55ad0809-6ea8-4f38-a664-a182d90e4b32"
+    documentation="This API provides access to the Approver Entity in the ApprovalRequest Aggregate."/>

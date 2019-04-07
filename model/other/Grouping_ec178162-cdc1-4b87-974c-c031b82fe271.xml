@@ -1,0 +1,8 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Different Aggregates for Types of Products"
+    id="ec178162-cdc1-4b87-974c-c031b82fe271">
+  <properties
+      key="Type"
+      value="Domain"/>
+</archimate:Grouping>

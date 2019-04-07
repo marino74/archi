@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Tax Handling"
+    id="256511a1-b4d5-4d7f-9604-50e352adf671"
+    documentation="Description:&#xD;&#xA;Handle the consumer tax reporting obligations&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Customer consolidated tax position record (e.g. party reference, customer reference, summary product activity records, tax position/obligation assessments), Product customer tax related transaction records, Customer tax obligations/rules, Customer tax reporting schedule">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

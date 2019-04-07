@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Life-Cycle Management"
+    id="ad1d7fb5-2d74-499b-ad4f-8831ba6a4370"
+    documentation="D">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

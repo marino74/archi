@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Process"
+    id="80a76b9f-7200-4fc0-89fe-911e52a0aae9"
+    documentation="A business process is a sequence of business events and the things that triggers such business events, such as another events and commands. Policies (or Business Rules) establish the conditions under which a new event happens. Policies can be applied by a human intervention (manual tasks) or automated activity (automated tasks)"/>

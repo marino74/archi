@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Charge"
+    id="bc3cf2d5-124e-42f7-a41e-f10858785890"
+    documentation="A Charge Aggregate is used to manage the payment of bank services via Fees. For a customer, fees are claculated according to the operations done by the customer and a charge is generating and sent to the payment engine to be charge. There may be a charge for each fee calculate or fees may be accumulated and charges periodically. The different of charges and billings is that charges are executed directly by the bank without customer intervention, over the customer accounts, and the bill is sent to the customer, who is who pays the bill&#xA;">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

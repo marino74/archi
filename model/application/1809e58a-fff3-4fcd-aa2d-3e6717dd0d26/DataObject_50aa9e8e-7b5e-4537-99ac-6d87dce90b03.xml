@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit Position"
+    id="50aa9e8e-7b5e-4537-99ac-6d87dce90b03">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

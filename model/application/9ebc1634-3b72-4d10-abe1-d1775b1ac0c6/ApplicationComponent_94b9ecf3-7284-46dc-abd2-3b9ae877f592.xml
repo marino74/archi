@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Directory"
+    id="94b9ecf3-7284-46dc-abd2-3b9ae877f592"
+    documentation="Description:&#xD;&#xA;Keep information about the basic product building blocks, represented as Product Components with Functions and Features, as well as the completed product specification from SD Product Design.&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Product/service definition and options, Offer processing requirements, Pricing algorithms and fees/penalties, Applicable terms and conditions by customer property/type, Sales/marketing materials, Servicing materials, Operational processing requirements, Technology/platform requirements &#xD;&#xA;">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

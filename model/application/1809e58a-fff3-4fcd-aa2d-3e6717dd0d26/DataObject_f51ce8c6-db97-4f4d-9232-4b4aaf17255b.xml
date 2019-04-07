@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organizations"
+    id="f51ce8c6-db97-4f4d-9232-4b4aaf17255b"
+    documentation="An organization is any legan entity with any kind or relationshio with the bank. A party may have several roles (a customer, an employee, a provider, a guarantor in a credit contract....)">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

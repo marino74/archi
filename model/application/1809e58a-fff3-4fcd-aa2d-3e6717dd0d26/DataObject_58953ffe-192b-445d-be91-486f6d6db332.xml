@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collateral"
+    id="58953ffe-192b-445d-be91-486f6d6db332"
+    documentation="This Aggregate is used to manage the information about any asset (financial or physical) that is used by the customer to guaranter operations in the bank. This aggregate manage the lifecycle of the asset (i.e when it must be re-evaluated) but does not manage the allocation of the collateral to products or operations, which is managed by the collateral allocation domain">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

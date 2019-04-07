@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit Approver"
+    id="89f413f7-e71d-4c96-aaea-72932db45751">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

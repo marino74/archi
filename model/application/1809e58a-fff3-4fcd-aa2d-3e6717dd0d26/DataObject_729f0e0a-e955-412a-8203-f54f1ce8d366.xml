@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preapproved Loans"
+    id="729f0e0a-e955-412a-8203-f54f1ce8d366">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

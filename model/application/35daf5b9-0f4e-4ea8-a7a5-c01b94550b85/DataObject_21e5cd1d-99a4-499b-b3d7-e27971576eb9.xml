@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregate"
+    id="21e5cd1d-99a4-499b-b3d7-e27971576eb9"
+    documentation="An Aggregate is a collection of Information with very clear meaning for the business. For example, the aggregate &quot;Customer&quot; will provide holistic information about a customer such as the name or the ID, but also the customer agreements with the bank of the customer or the positions he maintains in the bank&#xA;&#xA;An Aggregate is used to describe the information managed within a Domain (See Domain). For example, the “customer” aggregate models the information managed by the domain “customer”. A Domain may include several aggregates, but the principles is to include only one. &#xA;&#xA;Each Aggregate have a single IT Owner in IT organization(s) (it may have one in Architecture and one in Development and one in operations, but never 2 in Architecture or 2 in Development or 2 in Operations)&#xA;&#xA;Each Aggregate have a single Business Owner&#xA;&#xA;Each Aggregate will have one or several Domain Experts (the guys that knows and can explain well the business to the IT)&#xA;&#xA;The Information provided by an Aggregated is structured in Entities. &#xA;For example, the &quot;Customer&quot; Aggregate can provide Customer Credit Rating information of the customer, or the customer positions&#xA;&#xA;">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

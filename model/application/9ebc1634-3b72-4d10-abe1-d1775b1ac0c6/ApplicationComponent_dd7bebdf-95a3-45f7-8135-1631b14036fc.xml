@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Offer"
+    id="dd7bebdf-95a3-45f7-8135-1631b14036fc"
+    documentation="Description:&#xD;&#xA;Orchestrate the processing of an offer for a new customer or an existing customer. The offer process it defined primarily my the nature of the product or service being considered, but can include actions such as document checks, collateral allocation, credit assessments, underwriting decisions, regulatory and procedural checks, eligibility checks, the use of internal and external specialist services (such as evaluations and legal advice).&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Customer offer record: Customer reference details, Customer documents (scans) Product/service terms, Product/service configuration/options, Disclosures, Credit analysis, Underwriting decision submission and response, Regulatory requests and approvals, Audit submissions and approvals, Collateral allocation requests and results, Offer documentation and correspondence&#xD;&#xA;">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

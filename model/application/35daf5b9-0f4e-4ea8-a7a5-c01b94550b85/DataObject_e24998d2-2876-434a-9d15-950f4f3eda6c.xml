@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregate2"
+    id="e24998d2-2876-434a-9d15-950f4f3eda6c"
+    documentation="Each Aggregate is composed of one or more Entities , where one Entity is called the Aggregate Root. Aggregates may also have Value Objects composed on them">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

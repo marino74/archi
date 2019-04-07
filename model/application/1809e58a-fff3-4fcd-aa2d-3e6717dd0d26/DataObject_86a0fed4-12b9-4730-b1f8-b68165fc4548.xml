@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Individual"
+    id="86a0fed4-12b9-4730-b1f8-b68165fc4548"
+    documentation="Any individual with any kind or relationshio with the bank. A party may have several roles (a customer, an employee, a provider, a guarantor in a credit contract....)">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

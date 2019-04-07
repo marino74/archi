@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deposit Agreement"
+    id="9e0eb688-d92d-4eb1-a0b5-6897dcf8d5e0">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

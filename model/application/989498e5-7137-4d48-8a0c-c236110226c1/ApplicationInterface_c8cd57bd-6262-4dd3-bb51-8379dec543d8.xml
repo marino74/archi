@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/UnderwritingPolicie"
+    id="c8cd57bd-6262-4dd3-bb51-8379dec543d8"
+    documentation="This API provides access to the Underwriting Policy Aggregate."/>

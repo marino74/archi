@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel/Device Feature Access Entitlements "
+    id="aba9b58e-ef42-42ce-b636-027719c8aced"
+    documentation="This aggregate is used to manage customer permission to perform specific operations via channels and devices. For example, for a customer with permission to use the web channel, one uses the aggregate to allow/restrict a customer to perform international credit transfer up to 100.000 NIS">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

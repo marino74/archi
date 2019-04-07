@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AML Case"
+    id="eda32e0c-39bf-415a-8f4e-92603652292f"
+    documentation="A AML Case aggregate manage a situation with a operation is found to be potential for reporting to AML authority. A AML Case is open and manage by AML responsibles in the Bank">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

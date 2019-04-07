@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Matching"
+    id="2404a90e-d61e-406c-97a9-1da70332530c">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregate of Entity"
+    id="99d58808-59fe-48d4-a826-a617bbe385e6"
+    documentation="This &quot;Aggregates&quot; is used that the information described by an Entity in a Aggregate is actually managed in a different aggregate. For example, the Aggregate Customer constains the Entity &quot;Contact Point&quot;, this means that the contact points are relevant in the context of the customer and makes sense to be retrieved from to the &quot;customer&quot; aggregate (for example, through the APIs that exposes the customer aggregate). However the contact points are managed in a separate Aggregate because it is information also relevant for other aggregates, such as the &quot;customer communications&quot;">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

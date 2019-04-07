@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Positions"
+    id="94e13281-5a23-4965-a34f-13dc70895ca6"
+    documentation="Customer Positions include the customer assets (including credits), liabilities and collaterals&#xA;">
+  <properties
+      key="Type"
+      value="Value Object"/>
+</archimate:DataObject>

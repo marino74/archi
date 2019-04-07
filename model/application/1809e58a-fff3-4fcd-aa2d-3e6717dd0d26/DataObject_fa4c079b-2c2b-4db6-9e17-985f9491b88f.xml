@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Frame Agreement (Minali Account)"
+    id="fa4c079b-2c2b-4db6-9e17-985f9491b88f"
+    documentation="Customer request represents an application received by the bank from a customer who wants to purchase a product ">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

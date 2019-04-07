@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Matching"
+    id="cee2a55b-89ed-4cec-8a01-94f59272ecb9"
+    documentation="Description:&#xD;&#xA;Typically an interactive capability used to match available product and product combinations to a customer type and situation. The mapping logic can be responsive to more dynamic factors such as prevailing business conditions&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Customer product/service matching record (context details - up/cross sell, retention, solicitation, request, customer properties [customer type, credit grade, segment, location, product eligibility profile], requested product/service type/properties), Enterprise weightings/priorities (overrides selection process), Derived product recommendation list&#xD;&#xA;">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

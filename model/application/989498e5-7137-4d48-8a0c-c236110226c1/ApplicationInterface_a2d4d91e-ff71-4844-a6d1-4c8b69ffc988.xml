@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/Collateral"
+    id="a2d4d91e-ff71-4844-a6d1-4c8b69ffc988"
+    documentation="This API provides access to the Collateral Aggregate."/>

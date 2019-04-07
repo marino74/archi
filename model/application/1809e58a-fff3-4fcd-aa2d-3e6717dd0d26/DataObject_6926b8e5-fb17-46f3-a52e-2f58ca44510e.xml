@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Repayment Capability"
+    id="6926b8e5-fb17-46f3-a52e-2f58ca44510e"
+    documentation="This agregate provides an indicative value of what a customer or a group is able to repay monthly, based on incomes and expenses registered in the systems or provided by the customer ">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

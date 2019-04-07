@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit Offer"
+    id="dc8d246f-233f-4e94-8bb0-9260b20fecd9">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

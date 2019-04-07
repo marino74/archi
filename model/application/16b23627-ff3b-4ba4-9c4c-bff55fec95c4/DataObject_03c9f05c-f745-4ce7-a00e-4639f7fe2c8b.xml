@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Device"
+    id="03c9f05c-f745-4ce7-a00e-4639f7fe2c8b">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

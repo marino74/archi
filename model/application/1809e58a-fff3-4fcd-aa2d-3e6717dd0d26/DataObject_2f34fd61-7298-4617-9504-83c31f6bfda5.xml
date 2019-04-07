@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel/Device Access Entitlements"
+    id="2f34fd61-7298-4617-9504-83c31f6bfda5"
+    documentation="This aggregate is used to manage customer permission to operate via channels and devices. For example, one uses the aggregate to allow that a customer can operate via the web channel, or that a customer can operated via an specifically registered mobile device">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

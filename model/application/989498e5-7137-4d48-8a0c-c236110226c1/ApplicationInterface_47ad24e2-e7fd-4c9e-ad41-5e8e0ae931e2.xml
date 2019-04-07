@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/DepositAgreement/Documents"
+    id="47ad24e2-e7fd-4c9e-ad41-5e8e0ae931e2"
+    documentation="This API provides access to the Documents (provided by the Document Entities) in the &quot;Deposit Agreement&quot; Aggregate"/>

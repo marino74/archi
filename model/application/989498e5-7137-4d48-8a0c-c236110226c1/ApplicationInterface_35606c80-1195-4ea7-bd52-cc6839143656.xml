@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/ProductElegibilityCriteria"
+    id="35606c80-1195-4ea7-bd52-cc6839143656"
+    documentation="This API provides access to the Product Elegibility Criteria Aggregate."/>

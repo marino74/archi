@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/ProductPrice"
+    id="6f04cab3-cb96-414a-8a5b-e2e2b5b0b0b1"
+    documentation="This API provides access to the Product Price Aggregate."/>

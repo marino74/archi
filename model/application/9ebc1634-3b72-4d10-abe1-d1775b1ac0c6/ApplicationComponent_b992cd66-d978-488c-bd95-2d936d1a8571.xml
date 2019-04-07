@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Disbursement"
+    id="b992cd66-d978-488c-bd95-2d936d1a8571"
+    documentation="Description:&#xD;&#xA;Handle the disbursement of funds to newly established loans/facilities as necessary&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Disbursement details (Loan reference, payment approval/authorization, debit account reference, credit account reference, amount, transfer date/time)&#xD;&#xA;">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+  <properties
+      key="Status"
+      value="Confirmado"/>
+</archimate:ApplicationComponent>

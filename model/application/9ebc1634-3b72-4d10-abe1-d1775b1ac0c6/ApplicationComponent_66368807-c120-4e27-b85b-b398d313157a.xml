@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document Services"
+    id="66368807-c120-4e27-b85b-b398d313157a"
+    documentation="Document Services&#xD;&#xA;Description:&#xD;&#xA;Record, index, classify, scan, store and retrieve any document in any media as appropriate. Includes electronic and physical distribution services&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Document record (document reference, party reference, customer reference, product/service/activity reference, document content - any/all media, document master status/location, document version, valid from/to date, document status/locations), Document update/access history (document reference, access type, update details/version number, party/employee reference, date/time)&#xD;&#xA;&#xD;&#xA;---&#xD;&#xA;&#xD;&#xA;Archive Services&#xD;&#xA;Description:&#xD;&#xA;Provide long term archiving and retrieval services for documents and electronic media&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Operating session record (start/end, duration, configuration, load/utilization, etc.), Operating session task/request records, Operating session issues/event details (operating errors, device failures, response/impact)">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+  <properties
+      key="Status"
+      value="Disputed"/>
+</archimate:ApplicationComponent>

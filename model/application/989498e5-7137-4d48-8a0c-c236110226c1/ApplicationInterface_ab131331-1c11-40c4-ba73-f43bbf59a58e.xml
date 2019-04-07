@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/Customer/Customers/ID/ContactPoint"
+    id="ab131331-1c11-40c4-ba73-f43bbf59a58e"
+    documentation="This API provides access to the Contact Point Information (provided by the Contact Points Entities) in the &quot;Customer&quot; Aggregate"/>

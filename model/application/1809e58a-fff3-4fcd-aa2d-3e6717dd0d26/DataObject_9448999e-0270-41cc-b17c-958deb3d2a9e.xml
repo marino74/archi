@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Liability Position"
+    id="9448999e-0270-41cc-b17c-958deb3d2a9e">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/CreditAgreement/Signing"
+    id="f9db977a-25bb-47e3-a186-bf85d1372f51"
+    documentation="This API provides access to the Signig Entity in the CreditAgreement Aggregate."/>

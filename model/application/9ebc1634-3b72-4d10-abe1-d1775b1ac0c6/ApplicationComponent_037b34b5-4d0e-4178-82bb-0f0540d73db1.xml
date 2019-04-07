@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archive Services"
+    id="037b34b5-4d0e-4178-82bb-0f0540d73db1"
+    documentation="Provide long term archiving and retrieval services for documents and electronic media&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Operating session record (start/end, duration, configuration, load/utilization, etc.), Operating session task/request records, Operating session issues/event details (operating errors, device failures, response/impact)&#xD;&#xA;---&#xD;&#xA;">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+  <properties
+      key="Status"
+      value="Disputed"/>
+</archimate:ApplicationComponent>

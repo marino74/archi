@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/DepositAgreement"
+    id="0582e6f2-0d32-4841-bebe-c535029848b0"
+    documentation="This API provides access to the Aggregate."/>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="get payment schedule"
+    id="75467e39-1d4b-4581-9baa-32b8d75c5493">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_34e5a8c2-493f-439a-a1ef-4f2b9928021a.xml#34e5a8c2-493f-439a-a1ef-4f2b9928021a"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_a0fb2948-48a4-408f-9f5c-7d16392cfa16.xml#a0fb2948-48a4-408f-9f5c-7d16392cfa16"/>
+</archimate:ServingRelationship>

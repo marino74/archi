@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Preference"
+    id="eaeaeba7-3912-49a2-a27f-943cceddb897"
+    documentation="Access Preferences manage the customer access preferences to  access channels or devices. For example, a Company wants to establish restrictions to the operations of some of their employees over the accounts of the company in the Bank">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

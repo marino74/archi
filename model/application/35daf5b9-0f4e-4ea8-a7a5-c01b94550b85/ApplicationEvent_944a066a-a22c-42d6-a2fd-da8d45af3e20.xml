@@ -1,0 +1,5 @@
+<archimate:ApplicationEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domain Event"
+    id="944a066a-a22c-42d6-a2fd-da8d45af3e20"
+    documentation="A Domain Event represents a Business Event generated with a Domain, usually because of a change in an Aggregate in the Domain. For example, the &quot;offer accepted&quot; events is created when a &quot;offer aggregate&quot; is accepted by a customer within a credit offering process. &#xA;&#xA;Domain Events are the most imporant element in the communciations between domains. For example, the Product Agreement Domain may be &quot;listening&quot; to the &quot;offer accepted&quot; event and when one event happens, there´s a response in this Domain that creates a &quot;Product Agreement&quot; Aggregate. The Customer Communication  Domain may be also &quot;listening&quot; to the &quot;offer accepted&quot; event and when one event happens, this domains sends a message to the Branch advising of the acceptance of the offer by the customer"/>

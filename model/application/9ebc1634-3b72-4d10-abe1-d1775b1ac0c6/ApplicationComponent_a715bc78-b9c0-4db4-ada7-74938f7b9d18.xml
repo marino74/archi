@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Special Pricing Condition"
+    id="a715bc78-b9c0-4db4-ada7-74938f7b9d18"
+    documentation="Maintain a price list or single conditions (with ranges and optional terms) by various dimensions, e.g. customer segment (e.g. employee conditions), for exceptional product independent pricing conditions that override standard pricing derived from the pricing product.&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Directory entry reference details, Entry properties/values, Entry status, Directory record access activity/feedback details&#xD;&#xA;---&#xD;&#xA;&#xD;&#xA;Special Pricing Conditions&#xD;&#xA;Description:&#xD;&#xA;Maintain a price list or single conditions (with ranges and optional terms) by various dimensions, e.g. customer segment (e.g. employee conditions), for exceptional product independent pricing conditions that override standard pricing derived from the pricing product.&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Directory entry reference details, Entry properties/values, Entry status, Directory record access activity/feedback details">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

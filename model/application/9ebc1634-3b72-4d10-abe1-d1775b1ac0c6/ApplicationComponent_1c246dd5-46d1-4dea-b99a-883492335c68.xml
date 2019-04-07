@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Reference Data Management"
+    id="1c246dd5-46d1-4dea-b99a-883492335c68"
+    documentation="Description:&#xD;&#xA;Maintain customer reference information&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Customer contact details (name/role/address/contact numbers/email), Customer known relationships and associations (partners, associations, family, dependents), Customer demographics/properties (socio/economic, nationality, age, qualifications...), Customer education/employment history, Customer bank relationship history (member since, product activity/usage extract summaries), Customer known location/address history, etc…&#xD;&#xA;">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

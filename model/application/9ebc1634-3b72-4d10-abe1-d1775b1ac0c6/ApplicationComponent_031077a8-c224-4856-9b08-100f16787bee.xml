@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Data Management"
+    id="031077a8-c224-4856-9b08-100f16787bee"
+    documentation="Description:&#xD;&#xA;Maintain a comprehensive set of party reference details, including legal entity structure, demographics, administrative, KYC related properties, status and activity summaries&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Party legal entity structure, Party contact/agent details, Party properties (segment, scale, type of organization), Party relationship status/indicators, Party product service associations (bank internal references), Party customer role associations (bank internal references)&#xD;&#xA;">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

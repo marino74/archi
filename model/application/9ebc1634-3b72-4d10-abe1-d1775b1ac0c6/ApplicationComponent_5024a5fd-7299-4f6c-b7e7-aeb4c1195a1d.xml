@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Credit Rating"
+    id="5024a5fd-7299-4f6c-b7e7-aeb4c1195a1d"
+    documentation="Description:&#xD;&#xA;Maintain and administer the credit scoring for customers based on consolidated internal data and optionally referencing external credit agency insights&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Credit rating agency assessment (credit report), Bank credit rating (bank internal rating), Bank credit assessment (results of bank internal rating evaluation analysis)&#xD;&#xA;">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+  <properties
+      key="Status"
+      value="Confirmed"/>
+</archimate:ApplicationComponent>

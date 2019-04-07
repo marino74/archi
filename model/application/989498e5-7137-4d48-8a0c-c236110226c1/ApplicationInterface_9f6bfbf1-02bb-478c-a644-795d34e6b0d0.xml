@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/Customer/RepaymentCapacity"
+    id="9f6bfbf1-02bb-478c-a644-795d34e6b0d0"
+    documentation="This API provides access to the Repayment Capacity Information (provided by the repayment capacity Entities) in the &quot;Customer&quot; Aggregate"/>

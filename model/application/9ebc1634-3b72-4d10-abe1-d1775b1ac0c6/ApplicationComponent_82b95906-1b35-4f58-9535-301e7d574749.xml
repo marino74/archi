@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Product Service Elegilibility"
+    id="82b95906-1b35-4f58-9535-301e7d574749"
+    documentation="Description:&#xD;&#xA;Maintain a profile of the product and services for which the customer is eligible and any specific terms or other applicable considerations (supports relationship development and sales activity)&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Product specifications (target customer/situation profiles), Product/service features and options (related to target/actual customer use), Customer Product/Service eligibility indicator (all products/services), Customer specific eligibility terms/requirements (all products/services), Customer current and historical usage/entitlement (all products/services), Customer details (reference data, product usage, behavioral insights)&#xD;&#xA;">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

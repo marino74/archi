@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party"
+    id="e973d0b9-617c-492d-a7b5-4e2a0e6be1df">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

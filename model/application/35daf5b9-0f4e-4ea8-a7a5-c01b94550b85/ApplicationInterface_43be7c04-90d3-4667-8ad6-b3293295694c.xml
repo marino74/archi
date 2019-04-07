@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/Domain/Aggregate"
+    id="43be7c04-90d3-4667-8ad6-b3293295694c"
+    documentation="These APIs provides access to Entities within a Agregate, for example GET Customer/Customers/ID/ContactPoints"/>

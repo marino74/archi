@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit Rating"
+    id="7f5ec4b0-3930-478a-9caf-3c4352f58766"
+    documentation="This agregate provide a risk rating for a customer or risk group. The risk rating can be provide for a customer or group in general, or in the context of a request">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tax Position"
+    id="c0ddbf9d-5eb2-4981-a06b-52ec4f9e8c3d">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

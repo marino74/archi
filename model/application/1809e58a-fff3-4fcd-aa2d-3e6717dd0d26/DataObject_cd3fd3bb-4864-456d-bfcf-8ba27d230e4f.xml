@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bill"
+    id="cd3fd3bb-4864-456d-bfcf-8ba27d230e4f"
+    documentation="A Bill Aggregate is used to manage a billing activity to the customer, for example, a Company is billed monthly for all the services provided by the Bank. Fees are calculated based on the company operations and a bill is created and sent to the customer for payment">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elegibility Policy for Credit Product"
+    id="0ac99895-93d7-4db0-9daf-e9b42a76b14a"
+    documentation="Elegibility Policies specifics for Credit Products">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/Customer/Customers/ID/RiskGroups"
+    id="810d4785-95e0-47d8-8e39-c0cfb07e2b8f"
+    documentation="This API provides access to the Information about riskgrups (provided by the RiskGroups Entities) contained in the &quot;customer&quot; Aggregate"/>

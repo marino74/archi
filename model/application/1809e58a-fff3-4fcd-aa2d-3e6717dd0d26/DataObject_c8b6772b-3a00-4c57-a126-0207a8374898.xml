@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Offers"
+    id="c8b6772b-3a00-4c57-a126-0207a8374898"
+    documentation="A customer offer when a request is approved by and ready to be accepted or denied by the customer">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

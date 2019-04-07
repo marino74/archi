@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Commercial Product"
+    id="4c003b5d-bbbe-481a-93ea-5c88fc3aa7eb"
+    documentation="A Commercial Product is ">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

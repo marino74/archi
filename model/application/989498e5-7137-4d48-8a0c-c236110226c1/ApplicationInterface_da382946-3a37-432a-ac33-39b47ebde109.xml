@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/DepositAgreement/Signing"
+    id="da382946-3a37-432a-ac33-39b47ebde109"
+    documentation="This API provides access to the Signing Information (provided by the Signing Entities) in the &quot;Deposit Agreement&quot; Aggregate"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/CreditProductOffer/RepaymentMethod"
+    id="469dc6bf-e572-4fa1-9919-8dbd4831bcbd"
+    documentation="This API provides access to the Repayment Method Information (provided by the Repayment Method Entity) in the CreditProductOffer Aggregate."/>

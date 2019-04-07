@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deposits"
+    id="4fa5aa76-b4b7-4dd1-954c-6d0b829b52d7">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

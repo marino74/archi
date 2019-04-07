@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/DepositProductOffer/Documents"
+    id="82bc5515-3c14-4b43-a2bf-3940144eb9dc"
+    documentation="This API provides access to the  Documents  in the &quot;Deposit product Offers&quot; Aggregate"/>

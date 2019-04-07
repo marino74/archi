@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Event History"
+    id="77e8540d-9070-4e13-a722-098739b92ab3"
+    documentation="Customer Positions include the customer assets (including credits), liabilities and collaterals&#xA;">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

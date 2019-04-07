@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/DisbursementOrder"
+    id="2a3ab1d3-5029-468d-9e89-4dffcf7a5ff5"
+    documentation="Agregate API provide Access to Agregates. For example GET Customer"/>

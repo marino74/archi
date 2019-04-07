@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elegibility Policy"
+    id="f3145624-c2b0-48c1-b1f7-e8695de0ab67"
+    documentation="Describe the elegibility policy and is applied for every request to produce a elegibility result">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

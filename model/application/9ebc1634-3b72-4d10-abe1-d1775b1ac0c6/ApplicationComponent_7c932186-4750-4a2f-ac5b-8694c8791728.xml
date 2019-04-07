@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Access Entitlement"
+    id="7c932186-4750-4a2f-ac5b-8694c8791728"
+    documentation="Description:&#xD;&#xA;Maintains the details of the products services and channel access that the customer has in place.  This profile is referenced in servicing and fulfillment activity.  The view may also be compared to the full range of eligible products and services to identify business development opportunities.&#xA;&#xA;Control Record&#xA;Customer channel/device access entitlements (allowed access, channels, devices, location specific restrictions, time specific restrictions, access frequency/duration restrictions etc.), Allowed access to products/services and product/service features options and associated frequency/volume/amount limits, Customer provided channel device preferences and customer defined channel/device usage restrictions (e.g.. no paper correspondence, no solicitations)">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

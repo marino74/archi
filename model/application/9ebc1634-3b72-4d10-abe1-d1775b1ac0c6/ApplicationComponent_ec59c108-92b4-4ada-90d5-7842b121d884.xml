@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collateral Assets Administration"
+    id="ec59c108-92b4-4ada-90d5-7842b121d884"
+    documentation="Description:&#xD;&#xA;Maintain the status of a collateral item, include scheduled and ad-hoc valuation and confirmation of the correct completion of scheduled maintenance tasks.&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Collateral asset record (asset reference, asset type, asset properties/description, title, location, jurisdiction, associated document references, contacts/interested parties, valuation type, current valuation and valuation history), Collateral asset maintenance and valuation schedule, Collateral asset maintenance task detail (task type, external agency reference and terms, date/time, maintenance task result)">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+  <properties
+      key="Status"
+      value="Identified"/>
+</archimate:ApplicationComponent>

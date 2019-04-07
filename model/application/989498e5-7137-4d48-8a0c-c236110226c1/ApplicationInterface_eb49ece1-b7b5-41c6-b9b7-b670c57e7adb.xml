@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/ApprovalRequests"
+    id="eb49ece1-b7b5-41c6-b9b7-b670c57e7adb"
+    documentation="This API provides access to the ApprovalRequest Aggregate">
+  <properties
+      key="Type"
+      value="API"/>
+</archimate:ApplicationInterface>

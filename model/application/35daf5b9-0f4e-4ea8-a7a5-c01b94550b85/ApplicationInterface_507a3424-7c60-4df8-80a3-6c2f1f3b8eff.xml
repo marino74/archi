@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API"
+    id="507a3424-7c60-4df8-80a3-6c2f1f3b8eff"
+    documentation="&quot;Application Interface&quot; are the technical mechanisms to create, change, delete and retrieve the information in the Aggregate.For example to create new Customer, one may use the API POST http://.../customers &#xA;&#xA;APIs are not the only mechanism to create or access the aggregate. The other mechanisms are the Events"/>

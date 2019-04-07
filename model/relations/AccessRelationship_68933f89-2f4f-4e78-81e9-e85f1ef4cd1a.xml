@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trigger changes in Aggregate"
+    id="68933f89-2f4f-4e78-81e9-e85f1ef4cd1a">
+  <source
+      xsi:type="archimate:ApplicationEvent"
+      href="ApplicationEvent_944a066a-a22c-42d6-a2fd-da8d45af3e20.xml#944a066a-a22c-42d6-a2fd-da8d45af3e20"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_21e5cd1d-99a4-499b-b3d7-e27971576eb9.xml#21e5cd1d-99a4-499b-b3d7-e27971576eb9"/>
+</archimate:AccessRelationship>

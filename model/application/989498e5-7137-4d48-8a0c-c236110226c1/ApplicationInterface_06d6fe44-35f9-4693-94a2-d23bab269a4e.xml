@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/CreditRating"
+    id="06d6fe44-35f9-4693-94a2-d23bab269a4e"
+    documentation="This API provides access to the Aggregate."/>

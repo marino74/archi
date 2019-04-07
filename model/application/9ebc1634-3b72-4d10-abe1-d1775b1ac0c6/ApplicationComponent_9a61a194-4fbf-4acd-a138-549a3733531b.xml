@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Underwriting"
+    id="9a61a194-4fbf-4acd-a138-549a3733531b"
+    documentation="Description:&#xD;&#xA;Manage the underwriting decision process and different levels of authorization required for proposed loans&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Customer Product/Service eligibility indicator (all products/services), Customer specific eligibility terms/requirements (all products/services), Customer current and historical usage/entitlement (all products/services), Customer credit assessment (see SD Customer Credit Rating)&#xD;&#xA;">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

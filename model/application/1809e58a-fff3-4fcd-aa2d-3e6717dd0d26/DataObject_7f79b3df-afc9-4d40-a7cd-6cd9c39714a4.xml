@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Assets Position"
+    id="7f79b3df-afc9-4d40-a7cd-6cd9c39714a4">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

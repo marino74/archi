@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/CreditProductOffer/Roles"
+    id="65577f67-804e-4365-ac97-53c91c27af3a"
+    documentation="This API provides access to the Roles Information (provided by the Roles Entities) in the CreditProductOffer Aggregate."/>

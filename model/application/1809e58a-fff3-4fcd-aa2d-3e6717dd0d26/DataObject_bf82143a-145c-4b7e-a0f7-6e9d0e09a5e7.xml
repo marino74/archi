@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk Group Positions"
+    id="bf82143a-145c-4b7e-a0f7-6e9d0e09a5e7">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

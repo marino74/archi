@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accesses / Change the Aggregate"
+    id="c7fbd7e5-3d8c-4455-987f-780da392ca3d"
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_507a3424-7c60-4df8-80a3-6c2f1f3b8eff.xml#507a3424-7c60-4df8-80a3-6c2f1f3b8eff"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_21e5cd1d-99a4-499b-b3d7-e27971576eb9.xml#21e5cd1d-99a4-499b-b3d7-e27971576eb9"/>
+</archimate:AccessRelationship>

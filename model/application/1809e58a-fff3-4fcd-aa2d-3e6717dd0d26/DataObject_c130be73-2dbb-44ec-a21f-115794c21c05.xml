@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit Cards"
+    id="c130be73-2dbb-44ec-a21f-115794c21c05">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

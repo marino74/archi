@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit Risk Evaluation Criteria Model"
+    id="03c4efb0-9e73-4461-953e-190daf666017"
+    documentation="A Credit Risk Evaluation is an specific instance of the Credit Risk Evaluation Model for a specific request, customer, etc.... There will be different types of credit risk evaluation.&#xA;&#xA;The aggregate records the data with evaluation results and the input information used in the evaluation. ">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

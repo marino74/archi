@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employee Access Security Policy"
+    id="dda6913b-e410-431b-b8d8-51e4203a0589">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

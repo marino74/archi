@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organization Direction"
+    id="776ecc48-613c-4195-9398-4794f965928e"
+    documentation="Develop, maintain and implement the enterprise organization chart. Assign roles and responsibilities and track coverage">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

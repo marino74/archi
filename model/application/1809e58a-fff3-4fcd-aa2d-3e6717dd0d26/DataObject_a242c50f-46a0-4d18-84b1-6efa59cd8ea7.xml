@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Information"
+    id="a242c50f-46a0-4d18-84b1-6efa59cd8ea7"
+    documentation="A party is any individual or organization with any kind or relationshio with the bank. A party may have several roles (a customer, an employee, a provider, a guarantor in a credit contract....)">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

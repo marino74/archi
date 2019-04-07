@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Activity"
+    id="1d111258-bea0-4518-822f-2aa103ad5b61"
+    documentation="Rules applied to calculate and execute the tax obligations of a customer">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

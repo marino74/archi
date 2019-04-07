@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Approver"
+    id="b70f16c8-cb40-4d3e-813b-fe3c910a0b99">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>

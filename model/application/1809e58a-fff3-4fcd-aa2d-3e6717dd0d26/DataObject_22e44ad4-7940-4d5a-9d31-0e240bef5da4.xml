@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Credit Risk Evaluation"
+    id="22e44ad4-7940-4d5a-9d31-0e240bef5da4">
+  <properties
+      key="Type"
+      value="Aggregate"/>
+</archimate:DataObject>

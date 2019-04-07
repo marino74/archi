@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loan Template"
+    id="0fcc4512-b2e4-4cf5-b1a6-94f307aab4e6">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

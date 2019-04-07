@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Commercial Bundle"
+    id="3248da87-7bb0-4a7b-9d59-5e48af854999"
+    documentation="Commercial Bundle manage the structures of products that are sold together to the customers at, potentially, different conditions than the single product would be. For example, a SMB buys a bundled of a Credit Line, with A Current Account and a corporate credit card">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

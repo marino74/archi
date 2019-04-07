@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/DepositProductOffer/Renewals"
+    id="7486a84b-22a1-44b1-84ca-06e8963c5ca3"
+    documentation="This API provides access to the Information about renewal (provided by the Renewal Entities) in the &quot;Deposit Product Offer &quot; Aggregate"/>

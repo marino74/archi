@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loan Price"
+    id="e886c8ac-af07-405f-9993-a5367417c124"
+    documentation="Rules applied to calculate and execute the tax obligations of a customer">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

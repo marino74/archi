@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Proposition"
+    id="866d6e81-4983-45ab-8627-925c5d3f82a9"
+    documentation="Description:&#xD;&#xA;Support customer feature specific product fulfillment&#xD;&#xA;&#xD;&#xA;Control record:&#xD;&#xA;Agreement terms and conditions, Version/duration/jurisdiction details, Party legal entity/party role mapping, Disclosure records, Party document references&#xD;&#xA;">
+  <properties
+      key="Type"
+      value="BIAN Service Domain"/>
+</archimate:ApplicationComponent>

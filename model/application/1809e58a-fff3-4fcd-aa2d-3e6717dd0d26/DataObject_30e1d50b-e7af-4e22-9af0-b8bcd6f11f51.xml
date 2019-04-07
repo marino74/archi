@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product/Service Price"
+    id="30e1d50b-e7af-4e22-9af0-b8bcd6f11f51"
+    documentation="Rules applied to calculate and execute the tax obligations of a customer">
+  <properties
+      key="Type"
+      value="Agregate"/>
+</archimate:DataObject>

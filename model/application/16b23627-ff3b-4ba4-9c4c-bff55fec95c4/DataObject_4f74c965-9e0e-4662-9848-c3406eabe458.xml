@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User"
+    id="4f74c965-9e0e-4662-9848-c3406eabe458">
+  <properties
+      key="Type"
+      value="Entity"/>
+</archimate:DataObject>
